@@ -24,5 +24,7 @@ C:\Windows\System32\cmd.exe /K title Overlay && start "" "C:\Riot Games\Riot Cli
 ```
 
 Finally, set up the requiered enviroment variables(recommended as a .env file):
+
 DIRECTORY: Path to the League of Legends .exe
+
 PROGRAM_DIRECTORY: Path to this github repo
